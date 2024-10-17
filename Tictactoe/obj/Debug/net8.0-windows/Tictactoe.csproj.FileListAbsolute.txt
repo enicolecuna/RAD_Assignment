@@ -1,0 +1,16 @@
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\bin\Debug\net8.0-windows\Tictactoe.exe
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\bin\Debug\net8.0-windows\Tictactoe.deps.json
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\bin\Debug\net8.0-windows\Tictactoe.runtimeconfig.json
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\bin\Debug\net8.0-windows\Tictactoe.dll
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\bin\Debug\net8.0-windows\Tictactoe.pdb
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.Form1.resources
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.csproj.GenerateResource.cache
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.AssemblyInfoInputs.cache
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.AssemblyInfo.cs
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.csproj.CoreCompileInputs.cache
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.dll
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\refint\Tictactoe.dll
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.pdb
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\Tictactoe.genruntimeconfig.cache
+D:\BVC FILES\RAD\Tictactoe\Tictactoe\obj\Debug\net8.0-windows\ref\Tictactoe.dll
